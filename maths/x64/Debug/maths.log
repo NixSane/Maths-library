@@ -1,0 +1,15 @@
+﻿  AABB.cpp
+c:\users\s191187\documents\maths\aabb.cpp(6): error C2084: function 'AABB::AABB(void)' already has a body
+  c:\users\s191187\documents\maths\aabb.h(8): note: see previous definition of '{ctor}'
+c:\users\s191187\documents\maths\aabb.cpp(11): error C2678: binary '+': no operator found which takes a left-hand operand of type 'const vector_2' (or there is no acceptable conversion)
+  c:\users\s191187\documents\maths\vector_2.h(27): note: could be 'vector_2 vector_2::operator +(const vector_2 &)'
+  c:\users\s191187\documents\maths\aabb.cpp(11): note: while trying to match the argument list '(const vector_2, const vector_2)'
+  Sphere.cpp
+c:\users\s191187\documents\maths\sphere.cpp(24): error C2039: 'min': is not a member of '`global namespace''
+c:\users\s191187\documents\maths\sphere.cpp(24): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\s191187\documents\maths\sphere.cpp(25): error C2039: 'max': is not a member of '`global namespace''
+c:\users\s191187\documents\maths\sphere.cpp(25): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\s191187\documents\maths\sphere.cpp(30): error C2039: 'distanceTo': is not a member of 'vector_2'
+  c:\users\s191187\documents\maths\vector_2.h(6): note: see declaration of 'vector_2'
+  vector_2.cpp
+  Generating Code...

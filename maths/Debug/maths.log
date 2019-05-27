@@ -1,0 +1,14 @@
+﻿  matrix_4x4.cpp
+c:\users\s191187\documents\maths\matrix_4x4.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s191187\documents\maths\matrix_4x4.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  maths.vcxproj -> C:\Users\s191187\Documents\maths\Debug\maths.lib
